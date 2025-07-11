@@ -124,7 +124,7 @@ textarea {
 }
 
 /* IE10 이상에서 input box 에 추가된 지우기 버튼 제거 */
-input::-ms-clear { display: none; }
+input::-ms-clear { display: none; } 
 
 /* --- 링크 기본 스타일 (Link Base Styles) --- */
 a {
